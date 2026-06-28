@@ -1,0 +1,331 @@
+[
+  {
+    "topic": "Geography",
+    "category": "General Knowledge",
+    "questions": [
+      {
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "correctIndex": 1,
+        "explanation": "The Nile River, flowing through northeastern Africa, is traditionally considered the longest river in the world at about 6,650 kilometers.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which is the largest continent by area?",
+        "options": ["Africa", "Asia", "North America", "Europe"],
+        "correctIndex": 1,
+        "explanation": "Asia is the largest continent by both area (about 44.58 million sq km) and population (over 4.6 billion people).",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "correctIndex": 2,
+        "explanation": "Canberra is the capital city of Australia, located in the Australian Capital Territory (ACT). It was chosen as a compromise between Sydney and Melbourne.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which mountain is the tallest above sea level?",
+        "options": ["K2", "Kanchenjunga", "Mount Everest", "Lhotse"],
+        "correctIndex": 2,
+        "explanation": "Mount Everest, located in the Himalayas on the border of Nepal and Tibet, is Earth's highest mountain above sea level at 8,848.86 meters.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which desert is the largest hot desert in the world?",
+        "options": ["Gobi", "Sahara", "Kalahari", "Arabian"],
+        "correctIndex": 1,
+        "explanation": "The Sahara Desert in northern Africa is the largest hot desert in the world, covering about 9.2 million square kilometers.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the smallest country in the world by area?",
+        "options": ["Monaco", "Vatican City", "Liechtenstein", "San Marino"],
+        "correctIndex": 1,
+        "explanation": "Vatican City is the smallest independent state in the world, with an area of about 0.49 square kilometers.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which ocean is the largest?",
+        "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+        "correctIndex": 2,
+        "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceans, covering about 165 million square kilometers.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which country has the most time zones?",
+        "options": ["United States", "Russia", "China", "France"],
+        "correctIndex": 3,
+        "explanation": "France has 12 time zones when including its overseas territories, more than any other country.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is the capital city of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "correctIndex": 2,
+        "explanation": "Ottawa is the capital city of Canada, located in the province of Ontario.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which river flows through Egypt?",
+        "options": ["Tigris", "Euphrates", "Nile", "Ganges"],
+        "correctIndex": 2,
+        "explanation": "The Nile River flows through Egypt and is the lifeblood of the country, supporting agriculture and civilization along its banks.",
+        "difficulty": "EASY"
+      }
+    ]
+  },
+  {
+    "topic": "Mathematics",
+    "category": "General Knowledge",
+    "questions": [
+      {
+        "question": "What is the value of pi to two decimal places?",
+        "options": ["3.12", "3.14", "3.16", "3.18"],
+        "correctIndex": 1,
+        "explanation": "Pi is approximately 3.14159..., commonly rounded to 3.14 for everyday use.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is 7 multiplied by 8?",
+        "options": ["54", "56", "58", "64"],
+        "correctIndex": 1,
+        "explanation": "7 multiplied by 8 equals 56.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the square root of 144?",
+        "options": ["10", "11", "12", "13"],
+        "correctIndex": 2,
+        "explanation": "The square root of 144 is 12, because 12 multiplied by 12 equals 144.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the next prime number after 7?",
+        "options": ["8", "9", "11", "13"],
+        "correctIndex": 2,
+        "explanation": "The next prime number after 7 is 11. A prime number has only two distinct positive divisors: 1 and itself.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the Pythagorean theorem?",
+        "options": [
+          "a + b = c",
+          "a^2 + b^2 = c^2",
+          "a * b = c",
+          "a^3 + b^3 = c^3"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse equals the sum of squares of the other two sides: a^2 + b^2 = c^2.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the formula for the area of a circle?",
+        "options": ["2*pi*r", "pi*r^2", "pi*d", "4/3*pi*r^3"],
+        "correctIndex": 1,
+        "explanation": "The area of a circle is calculated by the formula A = pi*r^2, where r is the radius.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "How many degrees are in a triangle's interior angles?",
+        "options": ["90", "180", "270", "360"],
+        "correctIndex": 1,
+        "explanation": "The sum of the interior angles of any triangle is always 180 degrees in Euclidean geometry.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the derivative of x^2 with respect to x?",
+        "options": ["x", "2x", "x^3", "2"],
+        "correctIndex": 1,
+        "explanation": "Using the power rule for differentiation, the derivative of x^2 with respect to x is 2x.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is 15% of 200?",
+        "options": ["20", "25", "30", "35"],
+        "correctIndex": 2,
+        "explanation": "15% of 200 is calculated as 0.15 * 200 = 30.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the value of e (Euler's number) to two decimal places?",
+        "options": ["2.71", "2.81", "3.14", "1.61"],
+        "correctIndex": 0,
+        "explanation": "Euler's number, e, is approximately 2.71828..., commonly rounded to 2.71 or 2.72.",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "Literature",
+    "category": "General Knowledge",
+    "questions": [
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+        "correctIndex": 1,
+        "explanation": "'Romeo and Juliet' was written by William Shakespeare around 1594-1596 and is one of his most famous tragedies.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Who wrote '1984' and 'Animal Farm'?",
+        "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Kurt Vonnegut"],
+        "correctIndex": 1,
+        "explanation": "George Orwell (pen name of Eric Arthur Blair) wrote '1984' (1949) and 'Animal Farm' (1945), both political allegories.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which Russian author wrote 'War and Peace'?",
+        "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Alexander Pushkin"],
+        "correctIndex": 1,
+        "explanation": "'War and Peace' was written by Leo Tolstoy and published in 1869. It is considered one of the greatest novels ever written.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": ["Charlotte Bronte", "Emily Bronte", "Jane Austen", "Mary Shelley"],
+        "correctIndex": 2,
+        "explanation": "'Pride and Prejudice' was written by Jane Austen and first published in 1813.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Who is the author of 'The Great Gatsby'?",
+        "options": [
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "John Steinbeck",
+          "William Faulkner"
+        ],
+        "correctIndex": 1,
+        "explanation": "'The Great Gatsby' was written by F. Scott Fitzgerald and published in 1925, set in the Jazz Age on Long Island.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Who wrote the 'Harry Potter' series?",
+        "options": ["J.R.R. Tolkien", "J.K. Rowling", "C.S. Lewis", "Roald Dahl"],
+        "correctIndex": 1,
+        "explanation": "J.K. Rowling wrote the seven-book 'Harry Potter' series, with the first book published in 1997.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which novel begins with 'Call me Ishmael'?",
+        "options": ["Moby Dick", "The Old Man and the Sea", "Robinson Crusoe", "Treasure Island"],
+        "correctIndex": 0,
+        "explanation": "'Call me Ishmael' is the famous opening line of Herman Melville's novel 'Moby-Dick', published in 1851.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Toni Morrison", "Maya Angelou", "Sylvia Plath"],
+        "correctIndex": 0,
+        "explanation": "'To Kill a Mockingbird' was written by Harper Lee and published in 1960. It won the Pulitzer Prize for Fiction in 1961.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Who wrote 'The Lord of the Rings'?",
+        "options": [
+          "J.K. Rowling",
+          "George R.R. Martin",
+          "J.R.R. Tolkien",
+          "C.S. Lewis"
+        ],
+        "correctIndex": 2,
+        "explanation": "'The Lord of the Rings' was written by J.R.R. Tolkien and published in three volumes from 1954 to 1955.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Who is the author of 'Crime and Punishment'?",
+        "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Nikolai Gogol", "Ivan Turgenev"],
+        "correctIndex": 1,
+        "explanation": "'Crime and Punishment' was written by Fyodor Dostoevsky and first published in 1866. It's considered one of the greatest psychological novels.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Sports",
+    "category": "General Knowledge",
+    "questions": [
+      {
+        "question": "How many players are on a standard soccer (football) team?",
+        "options": ["9", "10", "11", "12"],
+        "correctIndex": 2,
+        "explanation": "A standard soccer/football team has 11 players on the field, including the goalkeeper.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "In which sport would you perform a 'slam dunk'?",
+        "options": ["Volleyball", "Basketball", "Tennis", "Cricket"],
+        "correctIndex": 1,
+        "explanation": "A slam dunk is performed in basketball when a player jumps and forcefully puts the ball through the basket.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "How often are the Summer Olympic Games held?",
+        "options": ["Every 2 years", "Every 4 years", "Every 5 years", "Every 6 years"],
+        "correctIndex": 1,
+        "explanation": "The Summer Olympic Games are held every 4 years, though the 2020 Tokyo games were delayed to 2021 due to COVID-19.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which country invented the sport of cricket?",
+        "options": ["India", "Australia", "England", "South Africa"],
+        "correctIndex": 2,
+        "explanation": "Cricket originated in England, with the first recorded match dating back to the 16th century.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "How many points is a touchdown worth in American football?",
+        "options": ["3", "6", "7", "8"],
+        "correctIndex": 1,
+        "explanation": "A touchdown in American football is worth 6 points. An extra point or two-point conversion can be added afterward.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which tennis tournament is played on grass courts?",
+        "options": ["French Open", "US Open", "Australian Open", "Wimbledon"],
+        "correctIndex": 3,
+        "explanation": "Wimbledon, the oldest tennis tournament in the world, is the only Grand Slam played on grass courts.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "How many holes are played in a standard round of golf?",
+        "options": ["9", "12", "18", "20"],
+        "correctIndex": 2,
+        "explanation": "A standard round of golf consists of 18 holes.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which boxer was famously known as 'The Greatest'?",
+        "options": [
+          "Mike Tyson",
+          "Muhammad Ali",
+          "Sugar Ray Leonard",
+          "Joe Frazier"
+        ],
+        "correctIndex": 1,
+        "explanation": "Muhammad Ali, three-time world heavyweight champion, was famously known as 'The Greatest' and is considered one of the most significant athletes of the 20th century.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "In Formula 1, what does 'pole position' mean?",
+        "options": [
+          "Last place on the grid",
+          "First place on the starting grid",
+          "Middle of the pack",
+          "Pit crew chief"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pole position is the first place position on the starting grid in motor racing, awarded to the fastest driver in qualifying.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which country has won the most FIFA World Cups?",
+        "options": ["Germany", "Argentina", "Italy", "Brazil"],
+        "correctIndex": 3,
+        "explanation": "Brazil has won the FIFA World Cup a record 5 times: 1958, 1962, 1970, 1994, and 2002.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  }
+]

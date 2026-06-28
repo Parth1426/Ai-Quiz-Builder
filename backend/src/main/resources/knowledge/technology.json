@@ -1,0 +1,557 @@
+[
+  {
+    "topic": "Neural Networks",
+    "category": "Technology",
+    "questions": [
+      {
+        "question": "What is a neural network primarily inspired by?",
+        "options": [
+          "Quantum mechanics",
+          "Biological brain neurons",
+          "Galactic structures",
+          "Plant growth patterns"
+        ],
+        "correctIndex": 1,
+        "explanation": "Artificial neural networks are computational models inspired by the structure and function of biological neurons in the human brain.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does the term 'deep learning' refer to?",
+        "options": [
+          "Machine learning with many hidden layers",
+          "A meditation technique",
+          "Underwater data storage",
+          "Algorithms running on deep memory"
+        ],
+        "correctIndex": 0,
+        "explanation": "Deep learning refers to neural networks with multiple hidden layers (typically more than 3), enabling them to learn complex patterns from data.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is an activation function in a neural network?",
+        "options": [
+          "A function that starts the computer",
+          "A non-linear transformation applied to a neuron's output",
+          "A function that activates user accounts",
+          "A scheduling function"
+        ],
+        "correctIndex": 1,
+        "explanation": "An activation function introduces non-linearity into a neural network, allowing it to learn complex patterns. Common examples include ReLU, sigmoid, and tanh.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What does CNN stand for in deep learning?",
+        "options": [
+          "Cable News Network",
+          "Convolutional Neural Network",
+          "Combined Neural Node",
+          "Central Network Node"
+        ],
+        "correctIndex": 1,
+        "explanation": "CNN stands for Convolutional Neural Network, a type of deep neural network most commonly applied to analyzing visual imagery.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which algorithm is commonly used to train neural networks?",
+        "options": [
+          "Binary search",
+          "Backpropagation",
+          "Quicksort",
+          "Dijkstra's algorithm"
+        ],
+        "correctIndex": 1,
+        "explanation": "Backpropagation is the algorithm used to train neural networks by computing gradients of the loss function with respect to weights.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is overfitting in machine learning?",
+        "options": [
+          "When a model performs well on training data but poorly on new data",
+          "When a model is too small to learn",
+          "When the dataset is too large",
+          "When training takes too long"
+        ],
+        "correctIndex": 0,
+        "explanation": "Overfitting occurs when a model learns training data too well, including noise and outliers, causing poor generalization to new data.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What does RNN stand for?",
+        "options": [
+          "Recursive Neural Network",
+          "Recurrent Neural Network",
+          "Reactive Neural Node",
+          "Random Neural Network"
+        ],
+        "correctIndex": 1,
+        "explanation": "RNN stands for Recurrent Neural Network, designed to process sequential data by maintaining a hidden state across time steps.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the purpose of a loss function?",
+        "options": [
+          "To calculate the difference between predicted and actual values",
+          "To measure GPU usage",
+          "To delete failed predictions",
+          "To compress the model"
+        ],
+        "correctIndex": 0,
+        "explanation": "A loss function quantifies how far the model's predictions are from the actual values, guiding the optimization process during training.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which architecture is the foundation of modern LLMs like GPT?",
+        "options": [
+          "LSTM",
+          "Transformer",
+          "Perceptron",
+          "Hopfield Network"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Transformer architecture, introduced in the 2017 paper 'Attention Is All You Need', is the foundation of modern large language models like GPT and BERT.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does ReLU stand for?",
+        "options": [
+          "Rectified Linear Unit",
+          "Recursive Logic Unit",
+          "Reverse Loop Unit",
+          "Random Linear Unit"
+        ],
+        "correctIndex": 0,
+        "explanation": "ReLU stands for Rectified Linear Unit, an activation function defined as f(x) = max(0, x), widely used due to its simplicity and effectiveness.",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "Artificial Intelligence",
+    "category": "Technology",
+    "questions": [
+      {
+        "question": "What does AI stand for?",
+        "options": [
+          "Automated Information",
+          "Artificial Intelligence",
+          "Augmented Interface",
+          "Advanced Iteration"
+        ],
+        "correctIndex": 1,
+        "explanation": "AI stands for Artificial Intelligence, the simulation of human intelligence processes by machines, especially computer systems.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Who is considered the father of Artificial Intelligence?",
+        "options": [
+          "Alan Turing",
+          "John McCarthy",
+          "Marvin Minsky",
+          "Geoffrey Hinton"
+        ],
+        "correctIndex": 1,
+        "explanation": "John McCarthy coined the term 'Artificial Intelligence' in 1956 at the Dartmouth Conference and is widely considered the father of AI.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the Turing Test designed to evaluate?",
+        "options": [
+          "Computer processing speed",
+          "Machine's ability to exhibit intelligent behavior indistinguishable from a human",
+          "Network bandwidth",
+          "Memory capacity"
+        ],
+        "correctIndex": 1,
+        "explanation": "Proposed by Alan Turing in 1950, the Turing Test evaluates a machine's ability to exhibit intelligent behavior equivalent to or indistinguishable from a human.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which of these is a subset of Artificial Intelligence?",
+        "options": [
+          "Quantum Computing",
+          "Machine Learning",
+          "Blockchain",
+          "Web Development"
+        ],
+        "correctIndex": 1,
+        "explanation": "Machine Learning is a subset of AI that focuses on systems that can learn from data without being explicitly programmed.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is supervised learning?",
+        "options": [
+          "Learning without any data",
+          "Learning from labeled training data",
+          "Learning by observing humans",
+          "Learning under government supervision"
+        ],
+        "correctIndex": 1,
+        "explanation": "Supervised learning is a type of machine learning where models learn from labeled training data to predict outcomes for new, unseen data.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is reinforcement learning?",
+        "options": [
+          "Learning through rewards and penalties",
+          "Learning by copying others",
+          "Learning from textbooks",
+          "Learning by repetition only"
+        ],
+        "correctIndex": 0,
+        "explanation": "Reinforcement learning is a type of ML where an agent learns to make decisions by performing actions and receiving rewards or penalties.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which company developed the AI system AlphaGo?",
+        "options": [
+          "OpenAI",
+          "DeepMind",
+          "Microsoft",
+          "IBM"
+        ],
+        "correctIndex": 1,
+        "explanation": "AlphaGo was developed by DeepMind (a subsidiary of Alphabet/Google) and famously defeated world champion Lee Sedol at the game of Go in 2016.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is Natural Language Processing (NLP)?",
+        "options": [
+          "Processing physical languages only",
+          "AI's ability to understand and generate human language",
+          "Translating programming languages",
+          "Creating new languages"
+        ],
+        "correctIndex": 1,
+        "explanation": "NLP is a branch of AI focused on enabling computers to understand, interpret, and generate human language in a meaningful way.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does GPT stand for?",
+        "options": [
+          "General Purpose Tool",
+          "Generative Pre-trained Transformer",
+          "Global Processing Technology",
+          "Graphical Programming Tool"
+        ],
+        "correctIndex": 1,
+        "explanation": "GPT stands for Generative Pre-trained Transformer, a type of large language model developed by OpenAI.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is bias in machine learning?",
+        "options": [
+          "Personal opinions of developers",
+          "Systematic errors in model predictions",
+          "Hardware limitations",
+          "Software bugs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bias in ML refers to systematic errors that can come from training data, algorithms, or assumptions, leading to unfair or inaccurate predictions.",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "Java Programming",
+    "category": "Technology",
+    "questions": [
+      {
+        "question": "Who created Java?",
+        "options": [
+          "Linus Torvalds",
+          "James Gosling",
+          "Bjarne Stroustrup",
+          "Guido van Rossum"
+        ],
+        "correctIndex": 1,
+        "explanation": "Java was created by James Gosling at Sun Microsystems in 1995.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does JVM stand for?",
+        "options": [
+          "Java Variable Machine",
+          "Java Virtual Machine",
+          "Java Verified Module",
+          "Java Visual Model"
+        ],
+        "correctIndex": 1,
+        "explanation": "JVM stands for Java Virtual Machine, the runtime environment that executes Java bytecode.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which keyword is used to inherit a class in Java?",
+        "options": ["implements", "extends", "inherits", "this"],
+        "correctIndex": 1,
+        "explanation": "The 'extends' keyword is used for class inheritance in Java. The 'implements' keyword is used for interfaces.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which of the following is NOT a primitive data type in Java?",
+        "options": ["int", "boolean", "String", "double"],
+        "correctIndex": 2,
+        "explanation": "String is a class (reference type) in Java, not a primitive data type. The primitives are byte, short, int, long, float, double, char, and boolean.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the default value of a boolean variable in Java?",
+        "options": ["true", "false", "null", "0"],
+        "correctIndex": 1,
+        "explanation": "The default value of a boolean instance variable in Java is false.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which collection class is synchronized in Java?",
+        "options": ["ArrayList", "HashMap", "Vector", "LinkedList"],
+        "correctIndex": 2,
+        "explanation": "Vector is synchronized (thread-safe) by default. ArrayList, HashMap, and LinkedList are not synchronized.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the purpose of the 'final' keyword in Java?",
+        "options": [
+          "To end a program",
+          "To declare constants, prevent inheritance, or prevent method overriding",
+          "To finalize garbage collection",
+          "To close a file"
+        ],
+        "correctIndex": 1,
+        "explanation": "The 'final' keyword can be applied to variables (making them constants), methods (preventing override), or classes (preventing inheritance).",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which Java version introduced the Stream API?",
+        "options": ["Java 7", "Java 8", "Java 9", "Java 11"],
+        "correctIndex": 1,
+        "explanation": "The Stream API was introduced in Java 8 (2014), along with lambda expressions, enabling functional-style operations on collections.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the difference between '==' and '.equals()' in Java?",
+        "options": [
+          "There is no difference",
+          "'==' compares references, '.equals()' compares values",
+          "'==' compares values, '.equals()' compares references",
+          "Both compare references"
+        ],
+        "correctIndex": 1,
+        "explanation": "'==' compares object references (memory addresses) while '.equals()' compares the actual content/values of objects.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does JIT stand for in Java?",
+        "options": [
+          "Java Internal Tool",
+          "Just In Time",
+          "Java Interactive Terminal",
+          "Joint Interface Type"
+        ],
+        "correctIndex": 1,
+        "explanation": "JIT stands for Just-In-Time compiler, which compiles bytecode to native machine code at runtime for improved performance.",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "Web Development",
+    "category": "Technology",
+    "questions": [
+      {
+        "question": "What does HTML stand for?",
+        "options": [
+          "Hyper Text Markup Language",
+          "High Tech Modern Language",
+          "Home Tool Markup Language",
+          "Hyperlink Text Module Language"
+        ],
+        "correctIndex": 0,
+        "explanation": "HTML stands for Hyper Text Markup Language, the standard markup language for documents designed to be displayed in a web browser.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which language is primarily used for styling web pages?",
+        "options": ["HTML", "CSS", "JavaScript", "Python"],
+        "correctIndex": 1,
+        "explanation": "CSS (Cascading Style Sheets) is used to style HTML documents, controlling layout, colors, fonts, and visual presentation.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does API stand for?",
+        "options": [
+          "Application Programming Interface",
+          "Advanced Programming Instruction",
+          "Application Process Indicator",
+          "Automated Programming Index"
+        ],
+        "correctIndex": 0,
+        "explanation": "API stands for Application Programming Interface, a set of rules that allows different software applications to communicate with each other.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which HTTP method is typically used to retrieve data?",
+        "options": ["POST", "GET", "PUT", "DELETE"],
+        "correctIndex": 1,
+        "explanation": "GET is the HTTP method used to retrieve data from a server. It should be safe and idempotent.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does REST stand for?",
+        "options": [
+          "Remote Execution Service Type",
+          "Representational State Transfer",
+          "Recursive State Tree",
+          "Reactive Service Topology"
+        ],
+        "correctIndex": 1,
+        "explanation": "REST stands for Representational State Transfer, an architectural style for designing networked applications, especially web services.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which HTTP status code indicates 'Not Found'?",
+        "options": ["200", "301", "404", "500"],
+        "correctIndex": 2,
+        "explanation": "HTTP status code 404 indicates that the requested resource could not be found on the server.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is React primarily used for?",
+        "options": [
+          "Backend development",
+          "Building user interfaces",
+          "Database management",
+          "Operating systems"
+        ],
+        "correctIndex": 1,
+        "explanation": "React is a JavaScript library developed by Facebook (Meta) primarily used for building user interfaces, especially single-page applications.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does JSON stand for?",
+        "options": [
+          "Java Source Object Notation",
+          "JavaScript Object Notation",
+          "Joint Service Object Network",
+          "Java Server Object Naming"
+        ],
+        "correctIndex": 1,
+        "explanation": "JSON stands for JavaScript Object Notation, a lightweight data interchange format that's easy for humans to read and write.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does CORS stand for?",
+        "options": [
+          "Cross-Origin Resource Sharing",
+          "Common Online Resource Standard",
+          "Cross-Object Reference System",
+          "Coordinated Origin Routing Service"
+        ],
+        "correctIndex": 0,
+        "explanation": "CORS stands for Cross-Origin Resource Sharing, a security feature that controls how web pages can request resources from different domains.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which HTTP method should be idempotent and safe?",
+        "options": ["POST", "GET", "DELETE", "PATCH"],
+        "correctIndex": 1,
+        "explanation": "GET is both safe (no side effects) and idempotent (multiple identical requests have the same effect as a single request). PUT and DELETE are idempotent but not safe.",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "Spring Boot",
+    "category": "Technology",
+    "questions": [
+      {
+        "question": "What is Spring Boot?",
+        "options": [
+          "A new operating system",
+          "An opinionated framework for building Spring applications",
+          "A database management system",
+          "A frontend library"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spring Boot is an opinionated, convention-over-configuration framework built on top of the Spring Framework to simplify the development of stand-alone Spring applications.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which annotation marks a class as a Spring Boot application entry point?",
+        "options": ["@Component", "@SpringBootApplication", "@Service", "@Controller"],
+        "correctIndex": 1,
+        "explanation": "@SpringBootApplication is a convenience annotation that combines @Configuration, @EnableAutoConfiguration, and @ComponentScan.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which annotation is used to create REST endpoints in Spring Boot?",
+        "options": ["@Component", "@RestController", "@Repository", "@Configuration"],
+        "correctIndex": 1,
+        "explanation": "@RestController combines @Controller and @ResponseBody, making it suitable for creating RESTful web services.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does @Autowired do in Spring?",
+        "options": [
+          "Automatically generates code",
+          "Performs dependency injection",
+          "Wires hardware components",
+          "Configures network settings"
+        ],
+        "correctIndex": 1,
+        "explanation": "@Autowired enables automatic dependency injection by the Spring container, resolving and injecting beans automatically.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which file is used for Spring Boot configuration properties?",
+        "options": ["config.xml", "application.properties or application.yml", "settings.json", "spring.config"],
+        "correctIndex": 1,
+        "explanation": "Spring Boot uses application.properties or application.yml in the resources folder for configuration.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the default embedded server in Spring Boot?",
+        "options": ["Jetty", "Tomcat", "Undertow", "Netty"],
+        "correctIndex": 1,
+        "explanation": "Apache Tomcat is the default embedded servlet container in Spring Boot web applications.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which annotation is used to map HTTP GET requests in Spring?",
+        "options": ["@PostMapping", "@GetMapping", "@RequestMapping", "All of the above can map GET"],
+        "correctIndex": 3,
+        "explanation": "@GetMapping is a shortcut for @RequestMapping(method = RequestMethod.GET). @RequestMapping can also map GET requests by specifying method = RequestMethod.GET.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is Spring Data JPA used for?",
+        "options": [
+          "Building user interfaces",
+          "Simplifying database access using JPA",
+          "Network communication",
+          "File compression"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spring Data JPA simplifies the implementation of data access layers by reducing boilerplate code required for JPA repositories.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which annotation is used for transactional methods?",
+        "options": ["@Transaction", "@Transactional", "@Atomic", "@Commit"],
+        "correctIndex": 1,
+        "explanation": "@Transactional is used to declare that a method should run within a transaction, providing automatic commit/rollback handling.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does Spring Boot Actuator provide?",
+        "options": [
+          "Production-ready features like monitoring, metrics, and health checks",
+          "UI components",
+          "Database drivers",
+          "Encryption libraries"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spring Boot Actuator provides production-ready features including health checks, metrics, environment info, and monitoring endpoints.",
+        "difficulty": "HARD"
+      }
+    ]
+  }
+]

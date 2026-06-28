@@ -1,0 +1,95 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: ai-quiz-builder
+
+  datasource:
+    url: jdbc:h2:mem:quizdb;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE;MODE=PostgreSQL
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: password
+
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+        use_sql_comments: true
+
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+      settings:
+        web-allow-others: false
+
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+    deserialization:
+      fail-on-unknown-properties: false
+    time-zone: UTC
+
+  cache:
+    type: simple
+
+# AI Configuration
+ai:
+  provider: mock  # Options: openai, mock
+  openai:
+    api-key: ${OPENAI_API_KEY:}
+    model: gpt-3.5-turbo
+    max-tokens: 2000
+    temperature: 0.7
+    base-url: https://api.openai.com/v1
+  quiz:
+    default-question-count: 5
+    min-question-count: 3
+    max-question-count: 10
+    default-difficulty: MEDIUM
+    generation-timeout-seconds: 30
+    cache-ttl-minutes: 60
+
+# Springdoc / Swagger
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operations-sorter: alpha
+    tags-sorter: alpha
+    display-request-duration: true
+  show-actuator: true
+
+# Actuator
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics,env
+  endpoint:
+    health:
+      show-details: always
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: AI Quiz Builder
+    description: AI-Powered Knowledge Quiz Builder
+    version: 1.0.0
+
+logging:
+  level:
+    root: INFO
+    com.quizbuilder: DEBUG
+    org.springframework.web: INFO
+    org.hibernate.SQL: WARN

@@ -1,0 +1,407 @@
+[
+  {
+    "topic": "Photosynthesis",
+    "category": "Science",
+    "questions": [
+      {
+        "question": "What is the primary pigment responsible for photosynthesis in plants?",
+        "options": ["Carotene", "Chlorophyll", "Xanthophyll", "Anthocyanin"],
+        "correctIndex": 1,
+        "explanation": "Chlorophyll is the green pigment in plant chloroplasts that absorbs light energy, primarily in the red and blue wavelengths, to drive photosynthesis.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which gas is consumed during photosynthesis?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+        "correctIndex": 2,
+        "explanation": "Carbon dioxide is absorbed from the atmosphere and combined with water to produce glucose and oxygen during photosynthesis.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "In which organelle does photosynthesis primarily occur?",
+        "options": ["Mitochondria", "Nucleus", "Chloroplast", "Ribosome"],
+        "correctIndex": 2,
+        "explanation": "Chloroplasts contain the chlorophyll and enzymes required for photosynthesis. They have specialized membrane stacks called thylakoids.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the overall chemical equation for photosynthesis?",
+        "options": [
+          "6CO2 + 6H2O -> C6H12O6 + 6O2",
+          "C6H12O6 + 6O2 -> 6CO2 + 6H2O",
+          "2H2 + O2 -> 2H2O",
+          "N2 + 3H2 -> 2NH3"
+        ],
+        "correctIndex": 0,
+        "explanation": "Six molecules of carbon dioxide combine with six molecules of water using light energy to produce one molecule of glucose and six molecules of oxygen.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which stage of photosynthesis produces ATP and NADPH?",
+        "options": ["Calvin cycle", "Light-dependent reactions", "Krebs cycle", "Glycolysis"],
+        "correctIndex": 1,
+        "explanation": "The light-dependent reactions occur in the thylakoid membranes and convert light energy into chemical energy stored as ATP and NADPH.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is the role of the Calvin cycle in photosynthesis?",
+        "options": [
+          "It splits water molecules",
+          "It absorbs light energy",
+          "It fixes carbon dioxide into glucose",
+          "It produces oxygen"
+        ],
+        "correctIndex": 2,
+        "explanation": "The Calvin cycle (light-independent reactions) uses ATP and NADPH from the light reactions to convert CO2 into glucose via the enzyme RuBisCO.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which factor does NOT directly affect the rate of photosynthesis?",
+        "options": ["Light intensity", "Temperature", "Soil pH", "CO2 concentration"],
+        "correctIndex": 2,
+        "explanation": "Light intensity, temperature, and CO2 concentration directly affect photosynthesis. Soil pH affects nutrient uptake but does not directly limit the photosynthetic reaction.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What byproduct of photosynthesis is essential for most life on Earth?",
+        "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Methane"],
+        "correctIndex": 2,
+        "explanation": "Oxygen is released as a byproduct when water molecules are split during the light reactions, and it is essential for aerobic respiration in most organisms.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which wavelengths of light are most effectively used by chlorophyll?",
+        "options": ["Green and yellow", "Red and blue", "Ultraviolet only", "Infrared only"],
+        "correctIndex": 1,
+        "explanation": "Chlorophyll absorbs red and blue wavelengths most efficiently and reflects green light, which is why plants appear green.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Where in the chloroplast do the light reactions occur?",
+        "options": ["Stroma", "Thylakoid membrane", "Outer membrane", "Intermembrane space"],
+        "correctIndex": 1,
+        "explanation": "The light-dependent reactions take place in the thylakoid membranes, which contain the photosystems and electron transport chain.",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "Solar System",
+    "category": "Science",
+    "questions": [
+      {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Mercury", "Mars", "Earth"],
+        "correctIndex": 1,
+        "explanation": "Mercury is the closest planet to the Sun, orbiting at an average distance of about 58 million kilometers.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which is the largest planet in our solar system?",
+        "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+        "correctIndex": 1,
+        "explanation": "Jupiter is the largest planet in our solar system, with a mass more than twice that of all the other planets combined.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "How many planets are officially recognized in our solar system?",
+        "options": ["7", "8", "9", "10"],
+        "correctIndex": 1,
+        "explanation": "There are 8 official planets after Pluto was reclassified as a dwarf planet by the IAU in 2006.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+        "correctIndex": 1,
+        "explanation": "Mars is called the Red Planet because of the iron oxide (rust) on its surface, giving it a reddish appearance.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the name of the largest moon of Saturn?",
+        "options": ["Europa", "Titan", "Ganymede", "Io"],
+        "correctIndex": 1,
+        "explanation": "Titan is Saturn's largest moon and the second-largest moon in the solar system. It is the only moon with a substantial atmosphere.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which planet has the most prominent ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "correctIndex": 1,
+        "explanation": "Saturn has the most visible and extensive ring system, composed mostly of ice particles with a smaller amount of rocky debris and dust.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What separates the inner and outer planets?",
+        "options": ["Kuiper Belt", "Oort Cloud", "Asteroid Belt", "Heliopause"],
+        "correctIndex": 2,
+        "explanation": "The Asteroid Belt, located between Mars and Jupiter, separates the inner rocky planets from the outer gas giants.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which planet rotates on its side (has an axial tilt of about 98 degrees)?",
+        "options": ["Neptune", "Uranus", "Venus", "Saturn"],
+        "correctIndex": 1,
+        "explanation": "Uranus has an unusual axial tilt of about 98 degrees, causing it to rotate on its side as it orbits the Sun.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is the approximate age of our solar system?",
+        "options": ["1 billion years", "4.6 billion years", "10 billion years", "13.8 billion years"],
+        "correctIndex": 1,
+        "explanation": "Our solar system is approximately 4.6 billion years old, formed from a giant molecular cloud of gas and dust.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which dwarf planet was reclassified from a planet in 2006?",
+        "options": ["Ceres", "Eris", "Pluto", "Haumea"],
+        "correctIndex": 2,
+        "explanation": "Pluto was reclassified as a dwarf planet in 2006 by the International Astronomical Union because it did not meet all three criteria for a planet.",
+        "difficulty": "EASY"
+      }
+    ]
+  },
+  {
+    "topic": "Human Body",
+    "category": "Science",
+    "questions": [
+      {
+        "question": "How many bones are in the adult human body?",
+        "options": ["186", "206", "226", "246"],
+        "correctIndex": 1,
+        "explanation": "The adult human body has 206 bones. Babies are born with around 270 bones, many of which fuse together as they grow.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which organ is responsible for pumping blood throughout the body?",
+        "options": ["Liver", "Heart", "Kidney", "Lungs"],
+        "correctIndex": 1,
+        "explanation": "The heart is a muscular organ that pumps blood through the circulatory system, delivering oxygen and nutrients to tissues.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Liver", "Brain", "Skin", "Heart"],
+        "correctIndex": 2,
+        "explanation": "The skin is the largest organ in the human body by surface area and weight, accounting for about 16% of total body weight.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which part of the brain controls balance and coordination?",
+        "options": ["Cerebrum", "Cerebellum", "Medulla", "Hippocampus"],
+        "correctIndex": 1,
+        "explanation": "The cerebellum, located at the back of the brain, is responsible for coordinating voluntary movements and maintaining balance.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "How many chambers does the human heart have?",
+        "options": ["Two", "Three", "Four", "Five"],
+        "correctIndex": 2,
+        "explanation": "The human heart has four chambers: two atria (upper) and two ventricles (lower), separating oxygen-rich and oxygen-poor blood.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the basic functional unit of the kidney?",
+        "options": ["Neuron", "Alveolus", "Nephron", "Villus"],
+        "correctIndex": 2,
+        "explanation": "The nephron is the microscopic functional unit of the kidney where blood is filtered and urine is formed. Each kidney contains about 1 million nephrons.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which blood type is known as the universal donor?",
+        "options": ["A+", "B+", "AB+", "O-"],
+        "correctIndex": 3,
+        "explanation": "O-negative blood is the universal donor because it lacks A, B, and Rh antigens, so it can be given to people of any blood type.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the smallest bone in the human body?",
+        "options": ["Stapes", "Incus", "Malleus", "Pisiform"],
+        "correctIndex": 0,
+        "explanation": "The stapes, located in the middle ear, is the smallest bone in the human body, measuring about 2.5 millimeters in length.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which part of the eye controls the amount of light entering?",
+        "options": ["Cornea", "Lens", "Pupil", "Retina"],
+        "correctIndex": 2,
+        "explanation": "The pupil is the opening in the center of the iris that adjusts its size to control how much light enters the eye.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the medical term for the voice box?",
+        "options": ["Pharynx", "Larynx", "Trachea", "Esophagus"],
+        "correctIndex": 1,
+        "explanation": "The larynx, commonly called the voice box, contains the vocal cords and is responsible for producing sound.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Chemistry Basics",
+    "category": "Science",
+    "questions": [
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "correctIndex": 2,
+        "explanation": "Gold's chemical symbol is Au, derived from the Latin word 'aurum' meaning 'shining dawn'.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the most abundant element in the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "correctIndex": 2,
+        "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, while oxygen accounts for roughly 21%.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the pH of pure water at 25 degrees Celsius?",
+        "options": ["0", "7", "10", "14"],
+        "correctIndex": 1,
+        "explanation": "Pure water has a neutral pH of 7 at 25 degrees Celsius, meaning equal concentrations of hydrogen and hydroxide ions.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the atomic number of carbon?",
+        "options": ["4", "6", "8", "12"],
+        "correctIndex": 1,
+        "explanation": "Carbon has an atomic number of 6, meaning it has 6 protons in its nucleus.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "options": ["Fluorine", "Iron", "Francium", "Fermium"],
+        "correctIndex": 1,
+        "explanation": "'Fe' is the symbol for Iron, derived from the Latin word 'ferrum'.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "correctIndex": 0,
+        "explanation": "Table salt is sodium chloride, with the chemical formula NaCl.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which subatomic particle has a negative charge?",
+        "options": ["Proton", "Neutron", "Electron", "Photon"],
+        "correctIndex": 2,
+        "explanation": "Electrons carry a negative charge. Protons are positive and neutrons are neutral.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is Avogadro's number approximately?",
+        "options": ["6.022 x 10^23", "3.14 x 10^8", "9.81 x 10^2", "1.602 x 10^-19"],
+        "correctIndex": 0,
+        "explanation": "Avogadro's number is approximately 6.022 x 10^23, representing the number of particles in one mole of a substance.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which gas is known as 'laughing gas'?",
+        "options": ["Carbon monoxide", "Nitrous oxide", "Methane", "Sulfur dioxide"],
+        "correctIndex": 1,
+        "explanation": "Nitrous oxide (N2O) is known as 'laughing gas' and is used as an anesthetic and analgesic.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What type of bond involves the sharing of electrons?",
+        "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+        "correctIndex": 1,
+        "explanation": "Covalent bonds form when two atoms share one or more pairs of electrons to achieve a stable electron configuration.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Physics",
+    "category": "Science",
+    "questions": [
+      {
+        "question": "Who formulated the three laws of motion?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+        "correctIndex": 1,
+        "explanation": "Sir Isaac Newton formulated the three laws of motion in his 1687 work Principia Mathematica, laying the foundation for classical mechanics.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the unit of electric current?",
+        "options": ["Volt", "Ohm", "Ampere", "Watt"],
+        "correctIndex": 2,
+        "explanation": "The ampere (A) is the SI unit of electric current, named after French physicist Andre-Marie Ampere.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the speed of light in vacuum?",
+        "options": ["3 x 10^6 m/s", "3 x 10^8 m/s", "3 x 10^10 m/s", "3 x 10^4 m/s"],
+        "correctIndex": 1,
+        "explanation": "The speed of light in vacuum is approximately 3 x 10^8 meters per second, denoted by the letter c.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which law states that energy cannot be created or destroyed?",
+        "options": [
+          "Newton's First Law",
+          "Law of Conservation of Energy",
+          "Ohm's Law",
+          "Boyle's Law"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Law of Conservation of Energy states that energy cannot be created or destroyed, only transformed from one form to another.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the formula for kinetic energy?",
+        "options": ["KE = mgh", "KE = (1/2)mv^2", "KE = ma", "KE = Fd"],
+        "correctIndex": 1,
+        "explanation": "Kinetic energy is calculated as KE = (1/2)mv^2 where m is mass and v is velocity.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What does E = mc^2 represent?",
+        "options": [
+          "Newton's second law",
+          "Mass-energy equivalence",
+          "Wave equation",
+          "Conservation of momentum"
+        ],
+        "correctIndex": 1,
+        "explanation": "Einstein's famous equation E = mc^2 expresses the equivalence of mass (m) and energy (E), where c is the speed of light.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which of these is a vector quantity?",
+        "options": ["Mass", "Time", "Velocity", "Temperature"],
+        "correctIndex": 2,
+        "explanation": "Velocity is a vector quantity because it has both magnitude and direction. Mass, time, and temperature are scalar.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the SI unit of force?",
+        "options": ["Joule", "Newton", "Pascal", "Watt"],
+        "correctIndex": 1,
+        "explanation": "The Newton (N) is the SI unit of force, defined as the force needed to accelerate 1 kg of mass at 1 m/s^2.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which subatomic particle was first discovered?",
+        "options": ["Proton", "Neutron", "Electron", "Photon"],
+        "correctIndex": 2,
+        "explanation": "The electron was the first subatomic particle to be discovered, identified by J.J. Thomson in 1897 through cathode ray experiments.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Heisenberg's uncertainty principle relates to which pair of quantities?",
+        "options": [
+          "Mass and energy",
+          "Position and momentum",
+          "Time and temperature",
+          "Force and acceleration"
+        ],
+        "correctIndex": 1,
+        "explanation": "Heisenberg's uncertainty principle states that the position and momentum of a particle cannot both be precisely measured simultaneously.",
+        "difficulty": "HARD"
+      }
+    ]
+  }
+]

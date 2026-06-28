@@ -1,0 +1,772 @@
+[
+  {
+    "topic": "Fitness and Gym",
+    "category": "Lifestyle",
+    "aliases": ["Gym", "Fitness", "Exercise", "Workout", "Training"],
+    "questions": [
+      {
+        "question": "Which of the following is a primary benefit of regular strength training?",
+        "options": ["Increased muscle mass and bone density", "Reduced need for sleep", "Immunity to injuries", "Faster heart rate at rest"],
+        "correctIndex": 0,
+        "explanation": "Strength training increases muscle mass, improves bone density, and supports overall metabolic health.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the recommended frequency for resistance training per week for muscle development?",
+        "options": ["Once per week", "2-3 times per week", "Every single day", "Only on weekends"],
+        "correctIndex": 1,
+        "explanation": "Most fitness experts recommend 2-3 days of resistance training per week to allow for proper recovery and muscle growth.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which recovery strategy is most effective after an intense workout session?",
+        "options": ["Immediate extreme cardio", "Adequate sleep and protein intake", "Avoiding any movement for a week", "Fasting for 24 hours"],
+        "correctIndex": 1,
+        "explanation": "Sleep and adequate protein intake are crucial for muscle recovery and adaptation after workouts.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What does 'HIIT' stand for in fitness terminology?",
+        "options": ["Heavy Intense Interval Training", "High Intensity Interval Training", "High Impact Individual Technique", "Healthy Interval Intensity Task"],
+        "correctIndex": 1,
+        "explanation": "HIIT stands for High Intensity Interval Training, a training method that alternates between intense bursts of activity and recovery periods.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which muscle group benefits most from deadlift exercises?",
+        "options": ["Primarily biceps only", "Hamstrings, glutes, and lower back", "Only calves", "Mainly chest and shoulders"],
+        "correctIndex": 1,
+        "explanation": "Deadlifts are compound movements that primarily work the hamstrings, glutes, lower back, and other posterior chain muscles.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the approximate duration of a proper warm-up before intense exercise?",
+        "options": ["1-2 minutes", "5-10 minutes", "30 minutes", "Warm-ups are unnecessary"],
+        "correctIndex": 1,
+        "explanation": "A proper warm-up typically lasts 5-10 minutes to gradually increase heart rate, body temperature, and prepare muscles.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which principle describes gradually increasing exercise intensity to continue making gains?",
+        "options": ["Static progression", "Progressive overload", "Plateau maintenance", "Regression technique"],
+        "correctIndex": 1,
+        "explanation": "Progressive overload means consistently challenging your muscles by increasing weight, reps, or intensity over time.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is the primary purpose of stretching and cool-down exercises?",
+        "options": ["Increase muscle soreness", "Reduce heart rate, improve flexibility, and aid recovery", "Accelerate fatigue", "Prevent fitness gains"],
+        "correctIndex": 1,
+        "explanation": "Cool-down and stretching reduce heart rate gradually, improve flexibility, and help prevent muscle stiffness.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which macronutrient is most important for muscle repair and growth?",
+        "options": ["Carbohydrates", "Fats", "Protein", "Vitamins"],
+        "correctIndex": 2,
+        "explanation": "Protein is essential for repairing and building muscle tissue after workouts.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does proper form during exercise primarily help prevent?",
+        "options": ["Faster results", "Injuries and ineffective muscle engagement", "Muscle fatigue", "Sweating"],
+        "correctIndex": 1,
+        "explanation": "Proper form reduces injury risk, ensures correct muscle activation, and maximizes exercise effectiveness.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Nutrition",
+    "category": "Lifestyle",
+    "aliases": ["Diet", "Food", "Healthy Eating", "Macronutrients"],
+    "questions": [
+      {
+        "question": "Which of the following is a complete protein source?",
+        "options": ["Rice alone", "Eggs", "Beans alone", "Pasta"],
+        "correctIndex": 1,
+        "explanation": "Eggs contain all nine essential amino acids, making them a complete protein source.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the recommended daily water intake for an average adult?",
+        "options": ["0.5 liters", "2-3 liters", "10 liters", "Water intake doesn't matter"],
+        "correctIndex": 1,
+        "explanation": "Most adults should aim for 2-3 liters of water daily, though individual needs vary based on activity and climate.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which vitamin is primarily synthesized by the body when exposed to sunlight?",
+        "options": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin B12"],
+        "correctIndex": 1,
+        "explanation": "Vitamin D is synthesized in the skin when exposed to sunlight, crucial for bone health and immunity.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is a primary function of dietary fiber?",
+        "options": ["Increases blood sugar rapidly", "Improves digestive health and promotes satiety", "Provides immediate energy", "Reduces water absorption"],
+        "correctIndex": 1,
+        "explanation": "Dietary fiber aids digestion, promotes healthy bowel movements, and helps maintain stable blood sugar levels.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which type of fat is considered healthiest for cardiovascular health?",
+        "options": ["Trans fats", "Saturated fats", "Unsaturated fats", "All fats are equally unhealthy"],
+        "correctIndex": 2,
+        "explanation": "Unsaturated fats (from sources like olive oil, nuts, and fish) support heart health compared to saturated and trans fats.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is the glycemic index (GI) used to measure?",
+        "options": ["Protein content", "How quickly food raises blood glucose levels", "Fat percentage", "Vitamin count"],
+        "correctIndex": 1,
+        "explanation": "The glycemic index measures how quickly carbohydrates in food raise blood glucose levels.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which food group should typically make up the largest portion of a balanced meal?",
+        "options": ["Protein only", "Vegetables and whole grains", "Sugar and sweets", "Fried foods"],
+        "correctIndex": 1,
+        "explanation": "A balanced plate should include plenty of vegetables and whole grains for fiber, nutrients, and sustainable energy.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What does 'BMI' stand for in nutrition and health contexts?",
+        "options": ["Body Muscle Index", "Body Mass Index", "Basal Metabolic Increment", "Biological Mass Indicator"],
+        "correctIndex": 1,
+        "explanation": "BMI (Body Mass Index) is a measure of body fat based on height and weight.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which mineral is essential for proper bone development and strength?",
+        "options": ["Iron", "Calcium", "Sodium", "Potassium"],
+        "correctIndex": 1,
+        "explanation": "Calcium is crucial for bone formation, maintenance, and strength throughout life.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the primary risk of consuming excessive added sugars?",
+        "options": ["Improved cognitive function", "Increased risk of obesity, diabetes, and dental problems", "Enhanced athletic performance", "Better digestive health"],
+        "correctIndex": 1,
+        "explanation": "Excessive added sugars increase the risk of obesity, type 2 diabetes, heart disease, and dental decay.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Yoga",
+    "category": "Lifestyle",
+    "aliases": ["Meditation", "Mindfulness", "Flexibility"],
+    "questions": [
+      {
+        "question": "Which yoga pose is considered a foundation for most standing postures?",
+        "options": ["Downward Dog", "Mountain Pose", "Lotus Pose", "Child's Pose"],
+        "correctIndex": 1,
+        "explanation": "Mountain Pose (Tadasana) is fundamental, establishing proper alignment and grounding for many other poses.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the primary purpose of pranayama in yoga?",
+        "options": ["Strengthening leg muscles", "Breath control and regulation", "Increasing flexibility only", "Competitive scoring"],
+        "correctIndex": 1,
+        "explanation": "Pranayama refers to breathing techniques that control and regulate the flow of prana (life force energy).",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which yoga style emphasizes precise alignment and use of props?",
+        "options": ["Vinyasa flow", "Iyengar yoga", "Hot yoga", "Power yoga"],
+        "correctIndex": 1,
+        "explanation": "Iyengar yoga focuses on detailed alignment and commonly uses props like blocks and straps.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is 'Savasana' in yoga practice?",
+        "options": ["A standing balance pose", "A breathing technique", "The final relaxation pose", "A sun salutation"],
+        "correctIndex": 2,
+        "explanation": "Savasana (Corpse Pose) is the final relaxation pose, typically held for 5-10 minutes to allow integration of benefits.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "How many primary chakras are recognized in traditional yoga philosophy?",
+        "options": ["3", "5", "7", "9"],
+        "correctIndex": 2,
+        "explanation": "Traditional yoga identifies 7 main chakras running along the spine, from the root to the crown.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does 'Namaste' traditionally mean?",
+        "options": ["Goodbye forever", "The light in me honors the light in you", "Let's compete", "Stretching is optional"],
+        "correctIndex": 1,
+        "explanation": "'Namaste' roughly translates to 'the divine in me bows to the divine in you,' expressing mutual respect.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which benefit is NOT typically associated with regular yoga practice?",
+        "options": ["Improved flexibility", "Reduced stress and anxiety", "Guaranteed rapid muscle gain", "Better balance and stability"],
+        "correctIndex": 2,
+        "explanation": "While yoga builds lean muscle, it's not typically known for rapid or significant muscle growth compared to strength training.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is a 'vinyasa' in yoga terminology?",
+        "options": ["A meditation mantra", "A flowing sequence linking breath with movement", "A meditation mat", "A type of meal"],
+        "correctIndex": 1,
+        "explanation": "Vinyasa is a sequence of poses flowing smoothly together, synchronized with the breath.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which yoga practice is best suited for beginners seeking stress relief?",
+        "options": ["Intense power yoga", "Restorative yoga", "Advanced inversions", "Highly athletic flow"],
+        "correctIndex": 1,
+        "explanation": "Restorative yoga focuses on relaxation and healing, making it ideal for beginners and those managing stress.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the significance of the 'Om' sound in yoga practice?",
+        "options": ["A random chant with no meaning", "A sacred vibration representing universal consciousness", "A commercial brand", "An emergency signal"],
+        "correctIndex": 1,
+        "explanation": "'Om' is considered a sacred sound and mantra representing the universal consciousness and cosmic vibration.",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "Cooking",
+    "category": "Lifestyle",
+    "aliases": ["Food Preparation", "Culinary Arts", "Recipes"],
+    "questions": [
+      {
+        "question": "What is the Maillard reaction in cooking?",
+        "options": ["Boiling water", "A chemical reaction that creates brown color and flavor", "Freezing food", "Soaking in vinegar"],
+        "correctIndex": 1,
+        "explanation": "The Maillard reaction occurs when proteins and sugars combine under heat, creating complex flavors and browning.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which cooking method uses moisture and heat in an enclosed environment?",
+        "options": ["Grilling", "Steaming", "Frying", "Boiling only"],
+        "correctIndex": 1,
+        "explanation": "Steaming cooks food using steam heat in an enclosed space, preserving nutrients and moisture.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is 'tempering' in cooking?",
+        "options": ["Making food angry", "Slowly heating and cooling chocolate for proper texture", "Adding spices", "Freezing instantly"],
+        "correctIndex": 1,
+        "explanation": "Tempering chocolate involves carefully heating and cooling it to achieve a smooth, glossy finish and proper snap.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which knife cut is typically used for cutting vegetables into small cubes?",
+        "options": ["Julienne", "Dice", "Chiffonade", "Brunoise"],
+        "correctIndex": 1,
+        "explanation": "Dice refers to cutting ingredients into uniform cubes, typically around 5mm x 5mm x 5mm.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the purpose of 'resting' meat after cooking?",
+        "options": ["It makes the meat cold", "Allows juices to redistribute, keeping meat moist and tender", "It's unnecessary", "To speed up the cooling process"],
+        "correctIndex": 1,
+        "explanation": "Resting meat allows the muscle fibers to relax and retain moisture, resulting in juicier, more tender meat.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which cooking fat has the highest smoke point?",
+        "options": ["Olive oil", "Coconut oil", "Avocado oil", "Butter"],
+        "correctIndex": 2,
+        "explanation": "Avocado oil has one of the highest smoke points (around 520°F/270°C), making it ideal for high-heat cooking.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does 'al dente' mean when cooking pasta?",
+        "options": ["Completely soft", "Firm to the tooth; slightly undercooked", "Overcooked", "Uncooked"],
+        "correctIndex": 1,
+        "explanation": "'Al dente' means the pasta has a slight firmness when bitten, maintaining texture and preventing mushiness.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the primary function of salt in baking?",
+        "options": ["Makes everything salty", "Enhances flavor and controls gluten development", "Only for decoration", "Speeds up baking"],
+        "correctIndex": 1,
+        "explanation": "Salt enhances flavor and helps control gluten formation in dough, affecting texture and rise.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which cooking method is best for tender, fall-apart meats?",
+        "options": ["Searing on high heat", "Braising in liquid over low heat", "Grilling quickly", "Microwaving"],
+        "correctIndex": 1,
+        "explanation": "Braising — slow cooking in liquid — breaks down connective tissues, resulting in tender, flavorful meat.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is 'deglazing' in cooking?",
+        "options": ["Removing food from the pan", "Adding liquid to a hot pan to dissolve browned bits for sauce", "Applying glaze", "Cleaning the stove"],
+        "correctIndex": 1,
+        "explanation": "Deglazing involves adding liquid (wine, broth) to a hot pan to dissolve flavorful browned bits, creating sauce.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Music",
+    "category": "Lifestyle",
+    "aliases": ["Singing", "Instruments", "Melodies"],
+    "questions": [
+      {
+        "question": "How many keys are on a standard piano?",
+        "options": ["52", "61", "88", "120"],
+        "correctIndex": 2,
+        "explanation": "A standard piano has 88 keys, ranging from A0 to C8.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the distance between two notes on adjacent lines or spaces in musical notation called?",
+        "options": ["Half-step", "Whole-step", "Interval", "Octave"],
+        "correctIndex": 2,
+        "explanation": "An interval is the distance between two pitches; adjacent lines/spaces form a second.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which clef is typically used for high-pitched instruments?",
+        "options": ["Bass clef", "Treble clef", "Alto clef", "Percussion clef"],
+        "correctIndex": 1,
+        "explanation": "The treble clef (G clef) is used for higher-pitched instruments like violins and flutes.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the standard tuning order for guitar strings (lowest to highest)?",
+        "options": ["E-A-D-G-B-E", "A-E-G-D-B-F", "C-F-B-E-G-D", "D-A-E-B-F-C"],
+        "correctIndex": 0,
+        "explanation": "Standard tuning is E-A-D-G-B-E, often remembered with the phrase 'Eddie Ate Dynamite, Good Bye Eddie.'",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What does 'tempo' refer to in music?",
+        "options": ["The key of a song", "The speed or pace of music", "The volume level", "The instrumentation"],
+        "correctIndex": 1,
+        "explanation": "Tempo is the speed at which a piece of music is played, typically measured in beats per minute (BPM).",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which time signature is most common in Western popular music?",
+        "options": ["3/4", "4/4", "6/8", "5/4"],
+        "correctIndex": 1,
+        "explanation": "4/4 time (four beats per measure) is the most common time signature in modern music.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the purpose of a capo on a guitar?",
+        "options": ["To make the guitar louder", "To shorten the playable string length and transpose the key", "To tune the guitar", "To slow down playing"],
+        "correctIndex": 1,
+        "explanation": "A capo presses down all strings at a specific fret, raising the pitch and allowing transposition.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which scale consists entirely of half-steps (semitones)?",
+        "options": ["Major scale", "Chromatic scale", "Pentatonic scale", "Whole tone scale"],
+        "correctIndex": 1,
+        "explanation": "The chromatic scale includes all 12 semitones and is the basis of Western music.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does 'dynamics' refer to in music?",
+        "options": ["The rhythm pattern", "Variations in volume and intensity", "The melody line", "The instrumentation"],
+        "correctIndex": 1,
+        "explanation": "Dynamics indicate how loud or soft music should be played, marked with terms like forte (f) and piano (p).",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which famous composer wrote 'Fur Elise'?",
+        "options": ["Wolfgang Mozart", "Ludwig van Beethoven", "Johannes Brahms", "Franz Schubert"],
+        "correctIndex": 1,
+        "explanation": "'Fur Elise' is a famous piano piece composed by Ludwig van Beethoven in 1810.",
+        "difficulty": "EASY"
+      }
+    ]
+  },
+  {
+    "topic": "Movies",
+    "category": "Entertainment",
+    "aliases": ["Cinema", "Films", "Television"],
+    "questions": [
+      {
+        "question": "Which country produced the film 'Parasite,' winner of the Academy Award for Best Picture in 2020?",
+        "options": ["Japan", "South Korea", "Thailand", "Singapore"],
+        "correctIndex": 1,
+        "explanation": "'Parasite,' directed by Bong Joon-ho, was a groundbreaking South Korean film that won multiple Oscars.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the standard frame rate for most cinema films?",
+        "options": ["24 fps", "30 fps", "60 fps", "120 fps"],
+        "correctIndex": 0,
+        "explanation": "Most cinematic films are shot and projected at 24 frames per second, the standard established by industry convention.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which cinematographer is famous for inventing the dolly camera movement?",
+        "options": ["Georges Méliès", "D.W. Griffith", "Billy Bitzer", "Orson Welles"],
+        "correctIndex": 2,
+        "explanation": "Billy Bitzer pioneered the dolly shot, allowing cameras to move smoothly through space.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does 'mise-en-scene' refer to in film?",
+        "options": ["The sound design", "Everything visible in the frame including props, costumes, and setting", "The plot only", "The editing technique"],
+        "correctIndex": 1,
+        "explanation": "Mise-en-scene encompasses all visual elements within a shot — props, actors, lighting, and set design.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which film won the Academy Award for Best Picture in 2022?",
+        "options": ["Dune", "CODA", "The Power of the Dog", "Licorice Pizza"],
+        "correctIndex": 1,
+        "explanation": "'CODA' won the Oscar for Best Picture in 2022, making history as the first film from a streaming service.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is a 'MacGuffin' in screenwriting?",
+        "options": ["A type of camera lens", "A plot device that drives the story but has little inherent importance", "A special effect", "A film genre"],
+        "correctIndex": 1,
+        "explanation": "A MacGuffin is an object that motivates characters but whose actual importance to the plot is minimal (coined by Hitchcock).",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which film was the first to be shot entirely on a digital camera?",
+        "options": ["Clerk", "Toy Story", "Collateral", "Attack of the Clones"],
+        "correctIndex": 3,
+        "explanation": "'Attack of the Clones' (2002) was among the first major studio films shot entirely on digital cameras.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does the acronym 'IMAX' stand for?",
+        "options": ["Interactive Maximum Screen", "Image Maximum", "Immersive Experience", "Not an acronym"],
+        "correctIndex": 0,
+        "explanation": "IMAX stands for 'Image MAXimum,' a large-format film system with a larger screen and enhanced resolution.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which element is NOT typically considered part of film production?",
+        "options": ["Pre-production planning", "Principal photography", "Post-production editing", "Film distribution"],
+        "correctIndex": 3,
+        "explanation": "Distribution is after production; the three main phases are pre-production, production, and post-production.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is 'color grading' in post-production?",
+        "options": ["Sorting film by color", "Adjusting colors and contrast to achieve a specific visual style", "Assigning grades to filmmakers", "Rating film quality"],
+        "correctIndex": 1,
+        "explanation": "Color grading is the process of adjusting and correcting colors and contrast to create a desired mood and look.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Football",
+    "category": "Sports",
+    "aliases": ["Soccer", "Footy", "Association Football"],
+    "questions": [
+      {
+        "question": "How long is a standard football (soccer) match?",
+        "options": ["60 minutes", "80 minutes", "90 minutes", "120 minutes"],
+        "correctIndex": 2,
+        "explanation": "A standard football match consists of two 45-minute halves, for a total of 90 minutes.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "How many players from each team are on the field in football?",
+        "options": ["9", "10", "11", "12"],
+        "correctIndex": 2,
+        "explanation": "Each team has 11 players on the field during a football match.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the width of a football goal?",
+        "options": ["7 meters", "7.32 meters", "8 meters", "10 meters"],
+        "correctIndex": 1,
+        "explanation": "The official width of a football goal is 7.32 meters (24 feet).",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "How many World Cups has Brazil won?",
+        "options": ["3", "4", "5", "6"],
+        "correctIndex": 2,
+        "explanation": "Brazil has won the FIFA World Cup 5 times, the most of any nation.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which player won the most FIFA World Player of the Year awards?",
+        "options": ["Ronaldo", "Ronaldinho", "Cristiano Ronaldo", "Pele"],
+        "correctIndex": 2,
+        "explanation": "Cristiano Ronaldo has won multiple individual awards throughout his career.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is an 'offside' rule designed to prevent?",
+        "options": ["Too much ball possession", "Players from clustering near the opponent's goal", "Aggressive play", "Excessive passing"],
+        "correctIndex": 1,
+        "explanation": "The offside rule prevents players from gaining an unfair advantage by standing too close to the opponent's goal.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which country has won the most European Championships (Euros)?",
+        "options": ["Spain", "Germany", "France", "Italy"],
+        "correctIndex": 0,
+        "explanation": "Spain won back-to-back Euros in 2008, 2012, and also won in 2024, with multiple total victories.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is a 'penalty kick' awarded for?",
+        "options": ["Excessive fouls outside the box", "A foul committed in the penalty area", "Time-wasting", "Bad sportsmanship"],
+        "correctIndex": 1,
+        "explanation": "A penalty kick is awarded when a foul is committed by the defending team in their penalty area.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which is NOT an official reason for a red card?",
+        "options": ["Violent conduct", "Denying an obvious goal-scoring opportunity with a handball", "Excessive arguing", "Serious foul play"],
+        "correctIndex": 2,
+        "explanation": "Red cards are issued for serious infractions like violent conduct and serious fouls, not merely for arguing.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does 'possession' refer to in football statistics?",
+        "options": ["Number of goals scored", "Percentage of time a team controls the ball", "Number of passes made", "Distance covered by players"],
+        "correctIndex": 1,
+        "explanation": "Possession indicates the percentage of match time during which a team controls the ball.",
+        "difficulty": "EASY"
+      }
+    ]
+  },
+  {
+    "topic": "Cricket",
+    "category": "Sports",
+    "aliases": ["Test Cricket", "ODI", "T20"],
+    "questions": [
+      {
+        "question": "How many players from each team are on the field in cricket?",
+        "options": ["9", "10", "11", "12"],
+        "correctIndex": 2,
+        "explanation": "Each team has 11 players on the field in a cricket match.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the maximum number of runs a batter can score from a single hit in cricket?",
+        "options": ["4", "5", "6", "8"],
+        "correctIndex": 2,
+        "explanation": "The maximum runs from a single hit is 6 (when the ball is hit over the boundary without bouncing).",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is an 'over' in cricket?",
+        "options": ["The end of the match", "6 legal bowls delivered by one bowler", "The winning score", "A type of shot"],
+        "correctIndex": 1,
+        "explanation": "An over consists of 6 legal deliveries (bowls) bowled by the same bowler to the opposing batters.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which cricket format is played over five days?",
+        "options": ["Twenty20", "One Day International (ODI)", "Test cricket", "Club cricket"],
+        "correctIndex": 2,
+        "explanation": "Test cricket is the longest format, played over five days with unlimited overs per side.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "How many times has India won the Cricket World Cup?",
+        "options": ["1", "2", "3", "4"],
+        "correctIndex": 2,
+        "explanation": "India has won the Cricket World Cup 2 times (1983 and 2011).",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is a 'googly' in cricket bowling?",
+        "options": ["A wide ball", "A deceptive spin delivery", "A hitting technique", "An umpire's signal"],
+        "correctIndex": 1,
+        "explanation": "A googly is a tricky spin delivery that appears to be one type of spin but behaves differently.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What does 'LBW' stand for in cricket?",
+        "options": ["Last Ball Won", "Leg Before Wicket", "Left Ball Wicket", "Legal Bowling Width"],
+        "correctIndex": 1,
+        "explanation": "LBW (Leg Before Wicket) occurs when the ball hits the batter's legs in front of the wickets.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which team has won the most ICC T20 World Cups?",
+        "options": ["India", "West Indies", "Pakistan", "Australia"],
+        "correctIndex": 1,
+        "explanation": "West Indies has won the T20 World Cup 2 times (2012 and 2016).",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is a 'boundary' in cricket?",
+        "options": ["The edge of the playing field", "4 or 6 runs scored from a single shot", "A rule violation", "A time-out"],
+        "correctIndex": 1,
+        "explanation": "A boundary means the ball reaches the edge of the field, awarding 4 or 6 runs depending on bounces.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "How many wickets does a team need to lose to end their innings in Test cricket?",
+        "options": ["8", "9", "10", "All players"],
+        "correctIndex": 2,
+        "explanation": "An innings ends when 10 batters are dismissed (all wickets fallen).",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Basketball",
+    "category": "Sports",
+    "aliases": ["Hoops", "NBA", "Basketball Court"],
+    "questions": [
+      {
+        "question": "How many players from each team are on the court in basketball?",
+        "options": ["4", "5", "6", "7"],
+        "correctIndex": 1,
+        "explanation": "Each team has 5 players on the court during a basketball game.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the point value of a successful shot from beyond the arc?",
+        "options": ["1 point", "2 points", "3 points", "4 points"],
+        "correctIndex": 2,
+        "explanation": "A three-point shot (three-pointer) is worth 3 points in basketball.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "How high is the basketball hoop from the ground?",
+        "options": ["8 feet", "9 feet", "10 feet", "11 feet"],
+        "correctIndex": 2,
+        "explanation": "The basketball hoop is positioned 10 feet (3.05 meters) above the ground.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What is the maximum time a team can hold the ball in the NBA before taking a shot?",
+        "options": ["10 seconds", "20 seconds", "24 seconds", "30 seconds"],
+        "correctIndex": 2,
+        "explanation": "The NBA shot clock is 24 seconds; teams must attempt a shot within this time.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What does 'traveling' mean in basketball?",
+        "options": ["Going to play in another country", "Taking more than two steps without dribbling", "Fouling out", "Taking a timeout"],
+        "correctIndex": 1,
+        "explanation": "Traveling is a violation where a player takes more than two steps without dribbling the ball.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "How many fouls can a player accumulate before being fouled out in the NBA?",
+        "options": ["4 fouls", "5 fouls", "6 fouls", "Unlimited"],
+        "correctIndex": 2,
+        "explanation": "In the NBA, a player is fouled out after receiving 6 personal fouls.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which player has won the most NBA MVP awards?",
+        "options": ["LeBron James", "Michael Jordan", "Kareem Abdul-Jabbar", "Wilt Chamberlain"],
+        "correctIndex": 2,
+        "explanation": "Kareem Abdul-Jabbar won 6 NBA MVP awards, the most in league history.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is a 'pick-and-roll' in basketball?",
+        "options": ["A defensive tactic", "An offensive play where one player sets a screen for another", "A violation", "A timeout signal"],
+        "correctIndex": 1,
+        "explanation": "A pick-and-roll is when one player sets a screen for a teammate, then rolls toward the basket.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "How many NBA championships has the Boston Celtics won?",
+        "options": ["15", "16", "17", "18"],
+        "correctIndex": 3,
+        "explanation": "The Boston Celtics have won 18 NBA championships, the most of any team (as of recent records).",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is the width of a basketball court?",
+        "options": ["50 feet", "48 feet", "45 feet", "52 feet"],
+        "correctIndex": 1,
+        "explanation": "An NBA basketball court is 94 feet long and 50 feet wide.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  },
+  {
+    "topic": "Sleep and Rest",
+    "category": "Lifestyle",
+    "aliases": ["Sleep", "Rest", "Insomnia", "Sleep Hygiene"],
+    "questions": [
+      {
+        "question": "How many hours of sleep per night is recommended for most adults?",
+        "options": ["5-6 hours", "7-9 hours", "10-12 hours", "Sleep is optional"],
+        "correctIndex": 1,
+        "explanation": "Most health organizations recommend 7-9 hours of quality sleep per night for adults.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which neurotransmitter is primarily responsible for sleep regulation?",
+        "options": ["Dopamine", "Serotonin", "Melatonin", "Adrenaline"],
+        "correctIndex": 2,
+        "explanation": "Melatonin is the hormone that regulates the sleep-wake cycle and is produced by the pineal gland.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the most common sleep disorder?",
+        "options": ["Narcolepsy", "Sleep apnea", "Insomnia", "Sleepwalking"],
+        "correctIndex": 2,
+        "explanation": "Insomnia is the most prevalent sleep disorder, affecting millions worldwide.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which sleep stage is associated with REM (Rapid Eye Movement)?",
+        "options": ["Stage 1", "Stage 2", "Stage 3", "REM sleep"],
+        "correctIndex": 3,
+        "explanation": "REM sleep is the stage where most vivid dreams occur and rapid eye movements are visible.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is 'sleep debt' or 'sleep deprivation'?",
+        "options": ["Money owed for sleeping", "Insufficient sleep accumulating over time", "A type of mattress", "A sleep disorder medication"],
+        "correctIndex": 1,
+        "explanation": "Sleep debt refers to the cumulative deficit when people don't get enough sleep, negatively affecting health.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which factor is NOT recommended for good sleep hygiene?",
+        "options": ["Maintaining a consistent sleep schedule", "Avoiding screens before bed", "Exercising heavily right before sleep", "Keeping the room cool"],
+        "correctIndex": 2,
+        "explanation": "Heavy exercise close to bedtime can be stimulating; exercising earlier in the day is better.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What is the optimal room temperature for sleep?",
+        "options": ["20°C (68°F)", "25°C (77°F)", "30°C (86°F)", "15°C (59°F)"],
+        "correctIndex": 0,
+        "explanation": "Sleep experts recommend a room temperature around 15-19°C (60-67°F) for optimal sleep.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "How many complete sleep cycles does the average adult go through per night?",
+        "options": ["2-3", "4-6", "7-9", "10-12"],
+        "correctIndex": 1,
+        "explanation": "Most adults complete 4-6 full sleep cycles per night, each lasting about 90 minutes.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which hormone regulates hunger and is affected by sleep deprivation?",
+        "options": ["Insulin", "Cortisol", "Ghrelin", "Leptin"],
+        "correctIndex": 2,
+        "explanation": "Ghrelin increases with sleep deprivation, promoting hunger and potential weight gain.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What is 'sleep apnea'?",
+        "options": ["Excessive sleeping", "Repeated breathing interruptions during sleep", "A dream disorder", "Sleepwalking"],
+        "correctIndex": 1,
+        "explanation": "Sleep apnea is a condition where breathing repeatedly stops and starts during sleep.",
+        "difficulty": "MEDIUM"
+      }
+    ]
+  }
+]

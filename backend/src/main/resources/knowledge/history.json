@@ -1,0 +1,189 @@
+[
+  {
+    "topic": "Ancient Rome",
+    "category": "History",
+    "questions": [
+      {
+        "question": "Who was the first Roman emperor?",
+        "options": ["Julius Caesar", "Augustus", "Nero", "Trajan"],
+        "correctIndex": 1,
+        "explanation": "Augustus (born Gaius Octavius) became the first Roman emperor in 27 BCE, ending the Roman Republic and beginning the Roman Empire.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which Roman general crossed the Rubicon river in 49 BCE?",
+        "options": ["Pompey", "Mark Antony", "Julius Caesar", "Hannibal"],
+        "correctIndex": 2,
+        "explanation": "Julius Caesar crossed the Rubicon with his army in 49 BCE, an act considered treason and triggering the civil war that ended the Roman Republic.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What was the main language spoken in ancient Rome?",
+        "options": ["Greek", "Latin", "Italian", "Etruscan"],
+        "correctIndex": 1,
+        "explanation": "Latin was the official language of ancient Rome and the Roman Empire, and it is the ancestor of modern Romance languages.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which structure was used in Rome for gladiatorial combats?",
+        "options": ["Forum", "Pantheon", "Colosseum", "Circus Maximus"],
+        "correctIndex": 2,
+        "explanation": "The Colosseum (or Flavian Amphitheatre) was the largest amphitheatre in the Roman Empire and was used for gladiatorial contests and public spectacles.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "When did the Western Roman Empire fall?",
+        "options": ["410 CE", "476 CE", "527 CE", "632 CE"],
+        "correctIndex": 1,
+        "explanation": "The Western Roman Empire is traditionally said to have fallen in 476 CE when the Germanic chieftain Odoacer deposed the last emperor, Romulus Augustulus.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Who was the famous orator and philosopher in late Roman Republic?",
+        "options": ["Cicero", "Seneca", "Virgil", "Ovid"],
+        "correctIndex": 0,
+        "explanation": "Marcus Tullius Cicero was a Roman statesman, orator, lawyer, and philosopher of the late Roman Republic, considered one of Rome's greatest orators.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which emperor legalized Christianity in the Roman Empire?",
+        "options": ["Nero", "Constantine", "Diocletian", "Trajan"],
+        "correctIndex": 1,
+        "explanation": "Emperor Constantine the Great legalized Christianity in 313 CE through the Edict of Milan, and later played a major role in shaping the religion.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "What was the Senate in ancient Rome?",
+        "options": [
+          "A military training facility",
+          "A governing and advisory political assembly",
+          "A religious temple",
+          "A trading market"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Roman Senate was a political institution that served as an advisory and legislative body during the Republic and Empire.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which Carthaginian general famously crossed the Alps to attack Rome?",
+        "options": ["Hasdrubal", "Hamilcar", "Hannibal", "Mago"],
+        "correctIndex": 2,
+        "explanation": "Hannibal Barca led Carthaginian forces, including war elephants, across the Alps in 218 BCE during the Second Punic War.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What was the Pax Romana?",
+        "options": [
+          "A peace treaty with Greece",
+          "A period of relative peace and stability in the Roman Empire",
+          "A Roman religious ceremony",
+          "A Roman military strategy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Pax Romana ('Roman Peace') was a period of relative peace and stability across the Roman Empire lasting approximately 200 years (27 BCE - 180 CE).",
+        "difficulty": "HARD"
+      }
+    ]
+  },
+  {
+    "topic": "World War 2",
+    "category": "History",
+    "questions": [
+      {
+        "question": "When did World War 2 begin in Europe?",
+        "options": ["1937", "1939", "1941", "1943"],
+        "correctIndex": 1,
+        "explanation": "World War 2 began in Europe on September 1, 1939, when Nazi Germany invaded Poland.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which event caused the United States to enter World War 2?",
+        "options": [
+          "Battle of Britain",
+          "Attack on Pearl Harbor",
+          "D-Day landings",
+          "Battle of Stalingrad"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Japanese attack on Pearl Harbor on December 7, 1941, prompted the United States to declare war on Japan and enter World War 2.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Who was the Prime Minister of the United Kingdom during most of WW2?",
+        "options": [
+          "Neville Chamberlain",
+          "Winston Churchill",
+          "Clement Attlee",
+          "Anthony Eden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Winston Churchill served as Prime Minister of the United Kingdom from 1940 to 1945, leading the country through most of World War 2.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "What was the code name for the Allied invasion of Normandy?",
+        "options": ["Operation Market Garden", "Operation Overlord", "Operation Torch", "Operation Barbarossa"],
+        "correctIndex": 1,
+        "explanation": "Operation Overlord was the code name for the Battle of Normandy, which began with the D-Day landings on June 6, 1944.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "When did World War 2 end?",
+        "options": ["1944", "1945", "1946", "1947"],
+        "correctIndex": 1,
+        "explanation": "World War 2 ended in 1945, with V-E Day on May 8, 1945, and V-J Day on September 2, 1945, after Japan's formal surrender.",
+        "difficulty": "EASY"
+      },
+      {
+        "question": "Which two cities were destroyed by atomic bombs in 1945?",
+        "options": [
+          "Tokyo and Osaka",
+          "Hiroshima and Nagasaki",
+          "Kyoto and Nagoya",
+          "Sapporo and Sendai"
+        ],
+        "correctIndex": 1,
+        "explanation": "The United States dropped atomic bombs on Hiroshima on August 6, 1945, and Nagasaki on August 9, 1945, leading to Japan's surrender.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What was the name of Germany's invasion of the Soviet Union?",
+        "options": ["Operation Sealion", "Operation Barbarossa", "Operation Market Garden", "Operation Citadel"],
+        "correctIndex": 1,
+        "explanation": "Operation Barbarossa was the code name for the German invasion of the Soviet Union, which began on June 22, 1941.",
+        "difficulty": "HARD"
+      },
+      {
+        "question": "Which leader is associated with the policy of appeasement before WW2?",
+        "options": [
+          "Winston Churchill",
+          "Neville Chamberlain",
+          "Franklin Roosevelt",
+          "Charles de Gaulle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Neville Chamberlain, British PM before Churchill, is known for the appeasement policy and the Munich Agreement of 1938.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "What was the Holocaust?",
+        "options": [
+          "A famous battle in WW2",
+          "The systematic genocide of six million Jews by Nazi Germany",
+          "A peace treaty",
+          "An economic crisis"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews and millions of others by Nazi Germany during WW2.",
+        "difficulty": "MEDIUM"
+      },
+      {
+        "question": "Which conference divided post-war Europe into spheres of influence?",
+        "options": ["Tehran Conference", "Yalta Conference", "Potsdam Conference", "Versailles Conference"],
+        "correctIndex": 1,
+        "explanation": "The Yalta Conference of February 1945, attended by Churchill, Roosevelt, and Stalin, shaped post-war Europe and divided it into spheres of influence.",
+        "difficulty": "HARD"
+      }
+    ]
+  }
+]

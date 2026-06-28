@@ -1,0 +1,31 @@
+# Backend
+backend/target/
+backend/.DS_Store
+backend/*.log
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.vscode/
+backend/bin/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
+frontend/dist-ssr/
+frontend/*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
